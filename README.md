@@ -19,7 +19,7 @@ Delete Items: Each item in the list can be deleted by swiping it horizontally fr
 ![alt text](https://github.com/Aayush-Basnet/Flutter-Project/blob/8f82333992688dc6a1f027946b618485d966adb1/Flutter%20Project%20Images/listtodo5.png)
 User Feedback: When an item is successfully deleted, a snackbar notification appears at the bottom of the screen, confirming the deletion.
 ![alt text](https://github.com/Aayush-Basnet/Flutter-Project/blob/89f97aa1adfcc9bdfc1311abae423e98005f0d2b/Flutter%20Project%20Images/listtodo6.png)
-Visual Enhancements: The app features a visually appealing interface. It includes an app bar at the top with a title, a drawer for additional navigation options, and a colorful floating action button.
+Visual Enhancements: The app features a visually appealing interface. It includes an app bar at the top with a title, account for profile, and a colorful floating action button.
 
 Overall, the "ListBook" app provides a convenient way to keep track of tasks or items that need to be remembered or completed. It offers basic functionality for adding, viewing, and deleting items in a simple and efficient manner.
 
