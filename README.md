@@ -14,6 +14,7 @@ Here's a brief description of the app's features:
 
 Add and Display Items: Users can add new items to the list by tapping on the floating action button (the "+" icon). The entered items are displayed in a scrollable list view.
 ![alt text](https://github.com/Aayush-Basnet/Flutter-Project/blob/ac5baedaec3ecb045555e19526220b16df915c34/Flutter%20Project%20Images/listtodo1.png) ![alt text](https://github.com/Aayush-Basnet/Flutter-Project/blob/a7eb12b90d5ca14a9d7f76faa56147f548262031/Flutter%20Project%20Images/listtodo2.png) ![alt text](https://github.com/Aayush-Basnet/Flutter-Project/blob/663fe41325d6f8d9e3c2f0477db09769392b04c8/Flutter%20Project%20Images/listtodo3.png)
+![alt text](https://github.com/Aayush-Basnet/Flutter-Project/blob/c33b8ce775314775a311d21335eb8e5cd27f9bb7/Flutter%20Project%20Images/listtodo4.1.png)
 Delete Items: Each item in the list can be deleted by swiping it horizontally from right to left. A delete icon is revealed, and upon confirmation, the item is removed from the list.
 
 User Feedback: When an item is successfully deleted, a snackbar notification appears at the bottom of the screen, confirming the deletion.
