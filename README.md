@@ -33,7 +33,7 @@ Player Indication: The game indicates the current player's turn, displaying a me
 ![alt text](https://github.com/Aayush-Basnet/Flutter-Project/blob/e75d74f2b7c72bdbb7b3b3a3b06f53e234c924aa/Flutter%20Project%20Images/tictactoe2.png)
 Valid Moves: Players can only place their moves in empty positions on the game board. The game ensures that players can't override each other's moves.
 Win Detection: The game implements win detection logic to determine the winner. It checks for three consecutive identical icons in a row, column, or diagonal. When a player wins, a message is displayed indicating the winner.
-
+![alt text](https://github.com/Aayush-Basnet/Flutter-Project/blob/eef0580937a8cb2136e596b2fa46f3ac88605272/Flutter%20Project%20Images/tictactoe3.png)
 Draw Detection: If all positions on the game board are filled and no player has won, the game declares a draw.
 
 Resetting the Game: After the game ends (win or draw), players have the option to reset the game and start a new round.
