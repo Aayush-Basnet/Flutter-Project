@@ -30,7 +30,7 @@ Player Icons: The game supports two players, represented by different icons. One
 Turn-Based Gameplay: The game follows a turn-based approach, allowing players to take turns placing their moves on the board.
 
 Player Indication: The game indicates the current player's turn, displaying a message at the top of the screen. It dynamically updates to show which player's turn it is.
-
+![alt text](https://github.com/Aayush-Basnet/Flutter-Project/blob/e75d74f2b7c72bdbb7b3b3a3b06f53e234c924aa/Flutter%20Project%20Images/tictactoe2.png)
 Valid Moves: Players can only place their moves in empty positions on the game board. The game ensures that players can't override each other's moves.
 Win Detection: The game implements win detection logic to determine the winner. It checks for three consecutive identical icons in a row, column, or diagonal. When a player wins, a message is displayed indicating the winner.
 
